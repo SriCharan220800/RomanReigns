@@ -1,0 +1,12 @@
+z=int(input("from "))
+n=input("number " )
+l=["A","B","C","D","E","F"]
+A=10
+B=11
+C=12
+D=13
+E=14
+F=15
+j=0
+d=0
+n=n.split()
